@@ -1,0 +1,15 @@
+{
+    "host": "StoneXHeartSMP.aternos.me",
+    "port": 54266,
+    "username": "BotAFK123",
+    "version": "1.21.4",
+    "autoReconnect": true,
+    "antiAFK": true,
+    "logChat": true,
+    "reconnectDelay": 5000,
+    "chatMessages": [
+        "Botul este online!",
+        "Sunt aici pentru a \u021bine serverul activ!"
+    ],
+    "chatInterval": 60000
+}
